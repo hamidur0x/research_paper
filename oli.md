@@ -89,7 +89,8 @@ Nahiyan Al Rahman Oli is a prominent Bangladeshi innovator, aerospace engineer, 
 ### Bangladesh Aerospace Research Center (BARC)
 
 - DhumketuX operates the **first private aerospace research center** in Bangladesh.  
-- BARC supports student and professional R&D and offers infrastructure for rocket engine testing and satellite development.
+- BARC supports student and professional R&D and offers infrastructure for rocket engine testing and satellite development.  
+- [Source](https://dhumketux.com/dx-lab/)
 
 ---
 
@@ -97,11 +98,13 @@ Nahiyan Al Rahman Oli is a prominent Bangladeshi innovator, aerospace engineer, 
 
 #### Putimach 0.1
 - Launched in February 2023 by the Zero Junior Team.  
-- Achieved ~1 km altitude using solid fuel and LoRa telemetry.
+- Achieved ~1 km altitude using solid fuel and LoRa telemetry.  
+- [Source](https://www.linkedin.com/feed/update/urn:li:activity:7062172188376565760/)
 
 #### Bayanno‑52
 - Single-stage sounding rocket reaching up to 52 km altitude.  
-- Won the A2i Innovation Competition in 2022.
+- Won the A2i Innovation Competition in 2022.  
+- [Source](https://www.linkedin.com/feed/update/urn:li:activity:7062172188376565760/)
 
 ---
 
@@ -110,7 +113,8 @@ Nahiyan Al Rahman Oli is a prominent Bangladeshi innovator, aerospace engineer, 
 - Working on CubeSats:  
   - **Bangla Vasha** (expected 2024)  
   - **Bijoy Dhara** (future mission)  
-- Collaboration with SPARRSO for orbital deployment.
+- Collaboration with SPARRSO for orbital deployment.  
+- [Source](https://www.linkedin.com/feed/update/urn:li:activity:7075638383281735681/)
 
 ---
 
@@ -124,7 +128,9 @@ Nahiyan Al Rahman Oli is a prominent Bangladeshi innovator, aerospace engineer, 
 ### International Engagements
 
 - Participated in **IISS Space Workshop**, Singapore.  
-- Speaker at **Brainstorm Wizards 1.0** on May 30, 2025.
+- Speaker at **Brainstorm Wizards 1.0** on May 30, 2025.  
+- [IISS Workshop](https://www.linkedin.com/posts/nahiyan-al-rahman-oli-627bb2127)  
+- [Brainstorm Wizards 1.0](https://www.linkedin.com/posts/nahiyan-al-rahman-oli-627bb2127_brainstorm-wizards-1-0-activity-7201358202522288128)
 
 ---
 
@@ -133,7 +139,8 @@ Nahiyan Al Rahman Oli is a prominent Bangladeshi innovator, aerospace engineer, 
 - Partner countries include **Japan**, **Turkey**, **New Zealand**, **Malaysia**, **Philippines**, and **UAE**.  
 - Ongoing projects:  
   - Space debris removal systems  
-  - Orbital space advertising (space billboards)
+  - Orbital space advertising (space billboards)  
+- [Source](https://www.linkedin.com/posts/nahiyan-al-rahman-oli-627bb2127_firefly-program-by-dhumketux-activity-7138828451366959104-nJ6N)
 
 ---
 
