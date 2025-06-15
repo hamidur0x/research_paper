@@ -84,6 +84,59 @@ Nahiyan Al Rahman Oli is a prominent Bangladeshi innovator, aerospace engineer, 
 - While specific formal coaching centers or clubs are not publicly listed, his influence is evident through DhumketuX’s student outreach and industry collaboration programs.  
 
 ---
+---
+
+### Bangladesh Aerospace Research Center (BARC)
+
+- DhumketuX operates the **first private aerospace research center** in Bangladesh.  
+- BARC supports student and professional R&D and offers infrastructure for rocket engine testing and satellite development.
+
+---
+
+### Prototype Rocket Launches
+
+#### Putimach 0.1
+- Launched in February 2023 by the Zero Junior Team.  
+- Achieved ~1 km altitude using solid fuel and LoRa telemetry.
+
+#### Bayanno‑52
+- Single-stage sounding rocket reaching up to 52 km altitude.  
+- Won the A2i Innovation Competition in 2022.
+
+---
+
+### CubeSat Program
+
+- Working on CubeSats:  
+  - **Bangla Vasha** (expected 2024)  
+  - **Bijoy Dhara** (future mission)  
+- Collaboration with SPARRSO for orbital deployment.
+
+---
+
+### VTOL & Human Drone Development
+
+- Developing **SkyBlade Xero** and **SkyBlade X4** VTOL drones.  
+- Aim: future urban mobility and possibly human flight.
+
+---
+
+### International Engagements
+
+- Participated in **IISS Space Workshop**, Singapore.  
+- Speaker at **Brainstorm Wizards 1.0** on May 30, 2025.
+
+---
+
+### Global Collaborations
+
+- Partner countries include **Japan**, **Turkey**, **New Zealand**, **Malaysia**, **Philippines**, and **UAE**.  
+- Ongoing projects:  
+  - Space debris removal systems  
+  - Orbital space advertising (space billboards)
+
+---
+
 
 ## Summary
 
